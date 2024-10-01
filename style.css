@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.container h1 {
+    color: rgb(99, 139, 190);
+    font-weight: 600;
+    margin-bottom: 30px;
+    font-size: 270%;
+}
+
+.Guessing {
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background: #fff5f5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+}
+
+#result {
+    color: #333;
+    font-size: 1.2em;
+}
